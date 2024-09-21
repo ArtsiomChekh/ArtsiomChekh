@@ -1,6 +1,6 @@
 # Hello, world! I'm Artsiom Chekh.
 
 ### About me
-Passionate Scala and Java developer with 2+ years of
-experience with skills in mobile development, open
-source projects and back-end engineering.
+Passionate Scala and Java developer with 3+ years of
+experience with skills in back-end engineering, open
+source projects and mobile development. 
